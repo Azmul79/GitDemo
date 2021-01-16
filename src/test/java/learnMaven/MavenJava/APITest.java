@@ -8,6 +8,8 @@ public class APITest {
 	@Test
 	public void nativApp() {
 		System.out.println("API test");
+		System.out.println("API test 1");
+		System.out.println("API test 2");
 	}
 	
 

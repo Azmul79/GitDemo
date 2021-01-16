@@ -8,6 +8,8 @@ public class SeleniumTest {
 	@Test
 	public void browserAutamationTest() {
 		System.out.println("Started Selenium");
+		System.out.println("Started Selenium with Git");
+		System.out.println("Started Selenium with Git 2");
 	}
 	
 	@Test
