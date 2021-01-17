@@ -17,4 +17,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void fromEclipse()
+    {
+        assertTrue( true );
+    }
 }

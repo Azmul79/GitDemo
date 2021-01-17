@@ -1,5 +1,8 @@
 package TestMaven.MavenJava;
 
+
+import static org.testng.Assert.assertTrue;
+
 import org.testng.annotations.Test;
 
 public class RESTAPITest {
@@ -22,4 +25,8 @@ public class RESTAPITest {
 	public void restAPItestUIFromVisualStudio1() {
 		System.out.println("Open 2nd RestAPI Test");
 	}
+	 public void fromEclipse()
+	    {
+	        assertTrue( true );
+	    }
 }

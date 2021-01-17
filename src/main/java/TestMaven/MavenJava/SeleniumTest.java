@@ -1,5 +1,8 @@
 package TestMaven.MavenJava;
 
+
+import static org.testng.Assert.assertTrue;
+
 import org.testng.annotations.Test;
 
 public class SeleniumTest {
@@ -14,5 +17,9 @@ public class SeleniumTest {
 		System.out.println("Open 2nd Selenium Test");
 		}
 	
+	 public void fromEclipse()
+	    {
+	        assertTrue( true );
+	    }
 
 }

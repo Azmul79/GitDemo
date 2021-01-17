@@ -1,5 +1,7 @@
 package learnMaven.MavenJava;
 
+import static org.junit.Assert.assertTrue;
+
 import org.testng.annotations.Test;
 
 public class SeleniumTest {
@@ -15,5 +17,10 @@ public class SeleniumTest {
 	@Test
 	public void elements() {
 		System.out.println("2nd Test in Selenium");
+		
 	}
+	 public void fromEclipse()
+	    {
+	        assertTrue( true );
+	    }
 }
