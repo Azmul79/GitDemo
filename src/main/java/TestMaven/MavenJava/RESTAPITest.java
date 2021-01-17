@@ -14,4 +14,12 @@ public class RESTAPITest {
 	public void restAPItestUI() {
 		System.out.println("Open 2nd RestAPI Test");
 	}
+	@Test
+	public void restAPItestUIFromVisualStudio() {
+		System.out.println("Open 2nd RestAPI Test");
+	}
+	@Test
+	public void restAPItestUIFromVisualStudio1() {
+		System.out.println("Open 2nd RestAPI Test");
+	}
 }
